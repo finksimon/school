@@ -17,5 +17,6 @@ h1{
     text-align:center;
 }        
 
-p{
- text-align   
+.div{
+    border-style:solid;
+}
