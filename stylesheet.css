@@ -19,10 +19,11 @@ h1{
 
 #soccer{
     float:right;
-    background-color:orange;
+    border:solid;
 }
 
 #school{
-    width:250px;
+    width:650px;
     border:solid;
+    float:left;
 }    
