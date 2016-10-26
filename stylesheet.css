@@ -6,6 +6,7 @@ body{
     background: linear-gradient(to bottom,  #c5deea 0%,#8abbd7 48%,#066dab 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c5deea', endColorstr='#066dab',GradientType=0 );
     background-repeat:none;
+    hight:100%;
 }
 
 h1{
