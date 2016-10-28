@@ -36,19 +36,25 @@ div{
     width:500px;
 }   
 
+#fnz:hover{
+    height:500px;
+    width:625px;
+}    
+
+#borg{
+    height:375px;
+    width:500px;
+}    
+
+#borg:hover{
+    height:500px;
+    width:625px;
+}    
+
 a{
   color:#636566;
   text-decoration: none;
 }
 
-img{
-height:70%;
-width:70%;
-}
-
-img:hover{
-height:90%;
-width:90%;
-}
     
     
