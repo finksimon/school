@@ -40,5 +40,15 @@ a{
   color:#636566;
   text-decoration: none;
 }
+
+img{
+height: 120px;
+width: 120px;
+}
+
+img:hover{
+height: 240px;
+width: 240px;
+}
     
     
