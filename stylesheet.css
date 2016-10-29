@@ -1,12 +1,7 @@
 body{
     font-family:Roboto;
-    background: -moz-linear-gradient(top,  #c5deea 0%, #8abbd7 48%, #066dab 100%);
-    background: -webkit-linear-gradient(top,  #c5deea 0%,#8abbd7 48%,#066dab 100%);
-    background: linear-gradient(to bottom,  #c5deea 0%,#8abbd7 48%,#066dab 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c5deea', endColorstr='#066dab',GradientType=0 );
-    background-repeat:none;
     font-size:30px;
-    
+    background-color:#f2f6fc;
     margin:0;
     padding:0;
     height:100%;
