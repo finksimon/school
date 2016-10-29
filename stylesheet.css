@@ -6,8 +6,6 @@ body{
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c5deea', endColorstr='#066dab',GradientType=0 );
     background-repeat:none;
     font-size:30px;
-    border:solid;
-    border-color:#c8cbd1;
     
     margin:0;
     padding:0;
@@ -28,7 +26,7 @@ body{
 #content{
      padding:10px;
      padding-bottom:60px;
-     height:580px;
+     height:600px;
 }    
 
 div{
