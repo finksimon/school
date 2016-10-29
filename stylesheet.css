@@ -78,12 +78,15 @@ a{
    bottom:0;
    width:100%;
    height:60px;
-   background-color:#104aa8; 
+   background-color:#104aa8;
+   border-top:solid;
+   border-color:white;    
 }        
 
 #instagram{
     width:45px;
     height:45px;
+    margin:auto;
 }    
     
 
