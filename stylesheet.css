@@ -6,11 +6,13 @@ body{
     background: linear-gradient(to bottom,  #c5deea 0%,#8abbd7 48%,#066dab 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c5deea', endColorstr='#066dab',GradientType=0 );
     background-repeat:none;
-    height:1000px;
-    width:100%;
     font-size:30px;
     border:solid;
     border-color:white;
+    
+    margin:0;
+    padding:0;
+    height:100%;
 }
 
 div{
