@@ -21,7 +21,7 @@ body{
 #content{
      padding:10px;
      padding-bottom:60px;
-     height:597px;
+     height:600px;
 }    
 
 div{
@@ -91,12 +91,4 @@ a{
     margin-top:5px;
 }    
     
-#facebook:hover{
-    width:53px;
-    height:53px;
-}
-
-#instagram:hover{
-    width:53px;
-    height:53px;
-}    
+  
