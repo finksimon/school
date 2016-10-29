@@ -20,7 +20,6 @@ body{
    position:relative;
 }
 #header {
-   background:#ff0;
    padding:10px;
 }
 
@@ -31,7 +30,6 @@ body{
 
 div{
     text-align:center;
-    border:solid;   
 }
 
 h1{
