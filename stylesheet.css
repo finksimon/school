@@ -20,7 +20,7 @@ body{
 }
 #header {
    padding:10px;
-   border:solid;
+   border-bottom:solid;
    border-color:#c8cbd1;
    background-color:#e1e3e8; 
 }
