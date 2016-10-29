@@ -47,6 +47,7 @@ h1{
 #fnz{
     height:375px;
     width:500px;
+    border:solid;
 }   
 
 #fnz:hover{
@@ -57,6 +58,7 @@ h1{
 #borg{
     height:375px;
     width:500px;
+    border:solid;
 }    
 
 #borg:hover{
