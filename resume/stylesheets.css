@@ -16,7 +16,6 @@ body {
 
 #Daten {
     margin-bottom:30px;
-    border-bottom:dashed 3px #96989b;
     margin-left:45px;
     display:inline-block;
 }    
@@ -24,4 +23,8 @@ body {
 #Schullaufbahn{
     margin-left:45px;
     float:right;
+}    
+
+#content{
+    border-bottom:dashed 3px #96989b;
 }    
