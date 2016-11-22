@@ -12,10 +12,14 @@ h1 {
 
 body {
     font-size:35px;
-    margin-left:45px;
 }    
 
 #Daten {
     margin-bottom:30px;
     border-bottom:dashed 3px #96989b;
-    
+    margin-left:45px;
+}    
+
+#Schzllaufbahn{
+    margin-left:45px;
+}    
