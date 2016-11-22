@@ -4,7 +4,8 @@ h1 {
     font-family:Roboto;
     font-size:80px;
     border-bottom:solid 3px #96989b;
-    background-color:#e1e3e8; 
+    background-color:#e1e3e8;
+    margin-top:0px;
 }
 
 body {
