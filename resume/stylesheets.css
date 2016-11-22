@@ -20,9 +20,10 @@ body {
     display:inline-block;
 }    
 
-#Schullaufbahn{
-    margin-left:45px;
+#Schullaufbahn {
     float:right;
+    margin-right:80px;
+    border-left:dashed 3px #96989b;
 }    
 
 #content{
