@@ -3,7 +3,8 @@ h1 {
     color:#4a4c4f;
     font-family:Roboto;
     font-size:80px;
-    border-bottom:5px 
+    border-bottom:solid 5px #96989b;
+    background-color:#e1e3e8; 
 }
 
 body {
