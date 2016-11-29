@@ -14,11 +14,14 @@ body {
     font-size:35px;
 }    
 
+#top {
+    border-bottom:dashed 3px #96989b;
+}
+
 #Daten {
     margin-bottom:30px;
     margin-left:45px;
     display:inline-block;
-    border-bottom:dashed 3px #96989b;
 }    
 
 #Schullaufbahn {
