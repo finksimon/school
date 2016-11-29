@@ -31,3 +31,9 @@ body {
     border-bottom:dashed 3px #96989b;
     background-color:#e3e7ed;
 }    
+
+#Qualifikationen{
+    margin-bottom:30px;
+    margin-left:45px;
+    display:inline-block;
+}
