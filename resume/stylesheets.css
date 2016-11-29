@@ -43,21 +43,24 @@ body {
 
 #Deutsch{
     height:100px;
-    width:400px;
+    width:500px;
     float:right;
     margin-right:250px;
+    margin-bottom:950px;
 }
 
 #Englisch{
     height:100px;
-    width:400px;
+    width:500px;
     float:right;
     margin-right:250px;
+    margin-bottom:600px;
 }
 
 #Spanisch{
     height:100px;
-    width:400px;
+    width:500px;
     float:right;
     margin-right:250px;
+    margin-bottom:250px;
 }
