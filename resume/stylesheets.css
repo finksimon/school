@@ -44,14 +44,20 @@ body {
 #Deutsch{
     height:100px;
     width:400px;
+    float:right;
+    margin-right:250px;
 }
 
 #Englisch{
     height:100px;
     width:400px;
+    float:right;
+    margin-right:250px;
 }
 
 #Spanisch{
     height:100px;
     width:400px;
+    float:right;
+    margin-right:250px;
 }
