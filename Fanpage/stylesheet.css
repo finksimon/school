@@ -4,8 +4,7 @@ p{
 }
 
 h1{
-  background-color:#eff0f2;
-  color:#103d87;
+  background-color:#e8eef7;
   text-align:center;
 }
 
@@ -13,4 +12,5 @@ h1{
   border-bottom:5px;
   border-style:#cdd0d6;
   font-family:Roboto;
+  color:#103d87;
 }
