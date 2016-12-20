@@ -17,3 +17,7 @@ h1{
   height:500px;
   width:1300px;
 }
+
+.navbar navbar-default{
+  float:left
+}
