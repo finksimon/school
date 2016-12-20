@@ -12,17 +12,8 @@ h1{
   
 }
 
-#heading{
-  border-bottom:5px;
-  border-style:#cdd0d6;
-  font-family:Roboto;
-  color:#103d87;
-}
-#row{
- margin-top:100px;
- margin-left:20px;
 }
 #Home{
-  height:500px;
-  width:1000px;
+  height:300px;
+  width:300px;
 }
