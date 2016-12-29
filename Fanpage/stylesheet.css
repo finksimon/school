@@ -20,3 +20,7 @@ h1{
 .navbar navbar-default{
   float:left
 }
+
+.item{
+  float:center;
+}
