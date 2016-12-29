@@ -28,3 +28,7 @@ h1{
 .item active{
   text-align:center;
 }
+
+#myCarousel{
+  padding-bottom:30px;
+}
