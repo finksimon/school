@@ -44,3 +44,7 @@ p{
   text-align:center;
   border-bottom:3px;
 }
+
+.navbar navbar-default{
+  font-size:50px;
+}
