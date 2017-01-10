@@ -50,5 +50,10 @@ p{
 }
 .bilder{
   height:270px;
-  width;260px;
+  width:260px;
+}
+
+#Anfahrt{
+  font-size:50px;
+  font-family:Impact;
 }
