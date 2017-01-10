@@ -37,3 +37,8 @@ h1{
 #myCarousel{
   padding-bottom:30px;
 }
+
+li{
+  font-size:350px;
+  font-family:Impact;
+}
