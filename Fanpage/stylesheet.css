@@ -28,10 +28,14 @@ h1{
 
 .item{
   text-align:center;
+  width:502px;
+  height:381px;
 }
 
 .item active{
   text-align:center;
+  width:502px;
+  height:381px;
 }
 
 #myCarousel{
