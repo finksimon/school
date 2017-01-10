@@ -15,7 +15,7 @@ h1{
   font-size:450px;
   color:black;  
   border-bottom:3px;
-  padding-top:20px;
+  padding-top:50px;
 }
 
 
@@ -30,10 +30,12 @@ h1{
 
 .item{
   text-align:center;
+  height:333px;
 }
 
 .item active{
   text-align:center;
+  height:333px;
 }
 
 #myCarousel{
