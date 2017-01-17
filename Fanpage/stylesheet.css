@@ -26,6 +26,7 @@ h1{
 
 .navbar navbar-default{
   float:left
+    
 }
 
 .item{
@@ -69,4 +70,20 @@ p{
 #Plane{
   text-decoration:none;
   color:black;
+}
+
+#Home{
+  padding-top:50px;
+}
+
+#Nav1{
+  padding-top:50px;
+}
+
+#Nav2{
+  padding-top:50px;
+}
+
+#Anfahrt{
+  padding-top:50px;
 }
