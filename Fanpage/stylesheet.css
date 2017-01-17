@@ -46,16 +46,14 @@ p{
   font-size:50px;
   font-family:Impact;
   text-align:center;
-  border-bottom:solid 3px;
+  border-bottom:solid 2px;
 }
 
 .navbar header{
   font-size:50px;
 }
-.bilder{
-  height:270px;
-  width:260px;
-}
+
+
 
 #Anfahrt{
   font-size:50px;
