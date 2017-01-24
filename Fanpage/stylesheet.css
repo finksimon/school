@@ -85,3 +85,8 @@ p{
 .Tor{
   font-size:35px;
 }
+
+li{
+  width:60px;
+  height:60px;
+}
