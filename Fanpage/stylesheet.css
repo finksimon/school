@@ -86,7 +86,7 @@ p{
   font-size:35px;
 }
 
-li{
+li:hover{
   width:60px;
   height:60px;
 }
