@@ -24,9 +24,6 @@ h1{
   width:1150px;
 }
 
-.navbar navbar-default{
-  float:left;  
-}
 
 .item{
   text-align:center;
@@ -83,10 +80,6 @@ p{
 
 #Anfahrt{
   padding-top:50px;
-}
-
-.navbar navbar-default navbar-fixed-top{
-  height:70px;
 }
 
 .Tor{
